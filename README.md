@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Haiti.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m a Software Engineer contributing to frontend and backend for building web applications.
 
 - :seedling: I'm currently working on my bilting project which is a nike clone where user can add items to cart, order items, view their order. I'm skilled in JavaScript, python, react, redux, node, express, flask, alembic.
